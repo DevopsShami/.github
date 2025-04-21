@@ -3,7 +3,7 @@
 🚀 ** DevOps Engineer | Cloud Enthusiast **  
   
 📧 [srishamsm6@gmail.com](mailto:srishamsm6@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/srisham-s-m) | [GitHub](https://github.com/DevopsShami)
+🔗 [LinkedIn](https://www.linkedin.com/in/srisham-s-m) |
 
 ---
 
