@@ -16,7 +16,9 @@ I'm a passionate **DevOps Engineer** with 1.6 years of experience working on clo
 ## 🔧 Featured Projects
 
 - [E-Commerce DevOps Project](https://github.com/DevopsShami/e-commerce-demo)  
-  End-to-end infrastructure automation using Docker, Kubernetes, Terraform, and AWS.
+  Implemented DevOps practices like containerization, Kubernetes orchestration, IaC with Terraform, and CI/CD 
+  pipelines to automate and scale an e-commerce application. Deployed monitoring solutions using Prometheus, 
+  Grafana, and AWS Cloud Watch for enhanced reliability and performance.
 ---
 
 ## 🛠️ Tech Stack
